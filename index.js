@@ -7,7 +7,7 @@ import Http from './lib/http/http'
 
 import AjaxCache from './lib/cache/ajax-cache'
 import Storage from './lib/cache/storage'
-import Session from './lib/cache/Session'
+import Session from './lib/cache/session'
 
 import DateUtil from './lib/utils/date-util'
 import Map from './lib/utils/map'
