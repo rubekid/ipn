@@ -1,6 +1,6 @@
 {
   "name": "ipn",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "爱拼",
   "main": "index.js",
   "scripts": {
