@@ -10,7 +10,6 @@ import Storage from './lib/cache/storage'
 import Session from './lib/cache/session'
 
 import DateUtil from './lib/utils/date-util'
-import Map from './lib/utils/map'
 
 export {
   AuthEncrypt,
@@ -19,6 +18,5 @@ export {
   AjaxCache,
   Storage,
   Session,
-  DateUtil,
-  Map
+  DateUtil
 }
