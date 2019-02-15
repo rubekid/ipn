@@ -1,15 +1,15 @@
-import './lib/common/common'
+import './lib/common/Common'
 
-import AuthEncrypt from './lib/auth/auth-encrypt'
-import TokenManager from './lib/auth/token-manager'
+import AuthEncrypt from './lib/auth/AuthEncrypt'
+import TokenManager from './lib/auth/TokenManager'
 
-import Http from './lib/http/http'
+import Http from './lib/http/Http'
 
-import AjaxCache from './lib/cache/cache'
-import Storage from './lib/cache/storage'
-import Session from './lib/cache/session'
+import AjaxCache from './lib/cache/Cache'
+import Storage from './lib/cache/Storage'
+import Session from './lib/cache/Session'
 
-import DateUtil from './lib/utils/date-util'
+import DateUtil from './lib/utils/DateUtil'
 
 export {
   AuthEncrypt,
